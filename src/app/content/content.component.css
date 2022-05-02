@@ -1,0 +1,40 @@
+.container-fluid{
+
+background-color: rgb(255, 255, 255);
+margin: 1em 0px;
+border-radius: 0,3rem;
+box-shadow: rgba(222, 167, 84, 0.08) 0px 1px 8px;
+padding: 16px;
+border-radius: 4px;
+}
+
+.user-container{
+background-color: rgb(243, 222, 222);
+
+padding:15px;
+margin:1px;
+border-radius: 10px;
+}
+
+.container{
+    background-color: rgb(242, 235, 235);
+    padding:15px;
+    margin:1px;
+    border-radius: 10px;
+    
+
+}
+.progress{
+
+background-color: rgb(231, 205, 205);
+width: 150px;
+height:5px;
+margin: 10px;
+
+}
+.form-outline mb-2{
+
+   width: 10px; 
+   height: 5px;
+   margin: 10px;
+}

@@ -1,0 +1,35 @@
+div{
+
+    background-color:white;
+    color: rgb(247, 240, 240);
+    box-sizing: 300px;
+    
+}
+
+.containar-1{
+    margin:1px;
+    border-radius: 10px;
+    background-color:lightcoral;
+    margin: 10px;
+    width: 150px;
+    margin-bottom: 100px;
+  
+  
+}
+.containar-2{
+    margin:1px;
+    border-radius: 10px;
+    background-color:rgb(95, 122, 198);
+    margin: 10px;
+    width: 150px;
+  
+}
+.containar-3{
+    margin:1px;
+    border-radius: 10px;
+    background-color:rgb(74, 48, 161);
+    margin: 10px;
+    width: 150px;
+  
+
+}
